@@ -98,7 +98,19 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-actor-and-the-alibi.xhtml" id="the-actor-and-the-alibi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-chief-mourner-of-marne.xhtml" id="the-chief-mourner-of-marne.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-with-two-beards.xhtml" id="the-man-with-two-beards.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-mirror-of-the-magistrate.xhtml" id="the-mirror-of-the-magistrate.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-red-moon-of-meru.xhtml" id="the-red-moon-of-meru.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-secret-of-father-brown.xhtml" id="the-secret-of-father-brown.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-secret-of-flambeau.xhtml" id="the-secret-of-flambeau.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-song-of-the-flying-fish.xhtml" id="the-song-of-the-flying-fish.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-vanishing-of-vaudrey.xhtml" id="the-vanishing-of-vaudrey.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-worst-crime-in-the-world.xhtml" id="the-worst-crime-in-the-world.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -106,6 +118,18 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dedication.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="the-secret-of-father-brown.xhtml"/>
+		<itemref idref="the-mirror-of-the-magistrate.xhtml"/>
+		<itemref idref="the-man-with-two-beards.xhtml"/>
+		<itemref idref="the-song-of-the-flying-fish.xhtml"/>
+		<itemref idref="the-actor-and-the-alibi.xhtml"/>
+		<itemref idref="the-vanishing-of-vaudrey.xhtml"/>
+		<itemref idref="the-worst-crime-in-the-world.xhtml"/>
+		<itemref idref="the-red-moon-of-meru.xhtml"/>
+		<itemref idref="the-chief-mourner-of-marne.xhtml"/>
+		<itemref idref="the-secret-of-flambeau.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
