@@ -46,3 +46,11 @@ section[epub|type~="dedication"] > *{
 	display: none;
 }
 /* end of poem/verse/song */
+
+#dedication{
+	font-variant: small-caps;
+}
+
+#dedication b{
+	font-size: 1.25em;
+}
