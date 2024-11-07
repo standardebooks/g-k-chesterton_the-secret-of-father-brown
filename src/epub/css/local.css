@@ -52,5 +52,5 @@ section[epub|type~="dedication"] > *{
 }
 
 #dedication b{
-	font-size: 1.25em;
+	font-size: larger;
 }
