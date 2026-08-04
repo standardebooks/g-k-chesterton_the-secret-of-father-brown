@@ -52,7 +52,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Father Brown</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:abstract>The fourth set of stories of a Catholic priest who is also an amateur detective.</dc:abstract>
+		<meta property="schema:abstract">The fourth set of stories of a Catholic priest who is also an amateur detective.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/father-brown"&gt;Father Brown&lt;/a&gt; returns in his fourth collection of stories, and his sidekick Flambeau makes a return as well, although only in the two framing stories at the beginning and end of the collection.&lt;/p&gt;
 			&lt;p&gt;In the intervening ten stories, Father Brown is alone, and investigating mysteries involving objects as varied as mirrors, literal goldfish (made out of gold), and a suit of armor. As always, his investigations also provide him an opportunity to expound on the nature of evil, the differences between a charlatan’s representation of the supernatural and the real thing, and the opportunities for thieves and murderers to repent of their deeds.&lt;/p&gt;
